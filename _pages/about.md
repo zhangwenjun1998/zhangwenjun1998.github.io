@@ -11,7 +11,9 @@ I am Wenjun Zhang, born in June 1998. I am currently an associate research fello
 
 我是张文钧，1998年6月生，目前在华中师范大学人工智能教育学部人工智能系担任副研究员，硕士生导师，中国人工智能学会粒计算与知识发现专委会委员、机器学习专委会委员、中国计算机学会专业会员、人工智能与模式识别专委会委员。我于2025年12月获得中国地质大学（武汉）工学博士学位，导师是[蒋良孝](https://grzy.cug.edu.cn/jlx/zh_CN/)教授。博士期间曾受国家留学基金委资助赴日本京都大学联合培养，导师为[Hisashi Kashima]( https://scholar.google.com/citations?user=bkTB0t8AAAAJ&hl=en)教授。我主要从事数据挖掘与机器学习相关研究工作，研究方向包括众包学习、贝叶斯学习、主动学习、迁移学习、类不平衡学习等。目前发表国内外著名学术期刊和会议论文20余篇，其中一作CCF-A类论文8篇，包括NeurIPS，ICML，IEEE TPAMI，SCIS，中国科学：信息科学，计算机研究与发展等。长期担任TKDE、TNNLS、TETCI、TKDD、NeruIPS、ICML、ACL、AAAI、IJCAI、UAI等20余个国际期刊审稿人和会议PC。
 
-<font color="red">长期欢迎对机器学习、数据挖掘、模式识别等方向感兴趣的同学报考研究生。同时，课题组常年招收对科技创新感兴趣的本科生。请有意向同学将个人简历发送至wjzhang@ccnu.edu.cn。**比起成绩，我更重视态度和性格，期待与同道者一起改变世界!**/font>
+<font color="red">长期欢迎对机器学习、数据挖掘、模式识别等方向感兴趣的同学报考研究生。同时，课题组常年招收对科技创新感兴趣的本科生。请有意向同学将个人简历发送至wjzhang@ccnu.edu.cn。 /font>
+
+比起成绩，我更重视态度和性格，期待与同道者一起改变世界! 
 
 News 最新动态
 ======
