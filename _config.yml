@@ -11,9 +11,9 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://zhanghuan1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhangwenjun1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhanghuan1994/zhanghuan1994.github.io"
+repository               : "zhangwenjun1998/zhangwenjun1998.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huan Zhang"
-  avatar           : "huanzhang.jpg"
+  name             : "Wenjun Zhang"
+  avatar           : "zhangwenjun.png"
   bio              : "Zhengzhou University"
   location         : 
   employer         :
