@@ -13,7 +13,7 @@ I am Wenjun Zhang, born in June 1998. I am currently an associate research fello
 
 **长期欢迎对机器学习、数据挖掘、模式识别等方向感兴趣的同学报考研究生。同时，课题组常年招收对科技创新感兴趣的本科生。请有意向同学将个人简历发送至wjzhang@ccnu.edu.cn。**
 
-# 比起成绩，我更重视态度和性格，愿与同道者一起捍卫小我或改变世界！
+### 比起成绩，我更重视态度和性格，愿与同道者一起捍卫小我或改变世界！
 
 
 News 最新动态
