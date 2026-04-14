@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wenjun Zhang"
   avatar           : "zhangwenjun.png"
-  bio              : "Zhengzhou University"
+  bio              : "Central China Normal University"
   location         : 
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=5FTHBE0AAAAJ&hl=zh-CN&oi=ao"
-  email            : "hzhang@zzu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Huan-Zhang-92"
+  googlescholar    : "https://scholar.google.com/citations?user=6Z5COqQAAAAJ&hl=en"
+  email            : "wjzhang@ccnu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Wenjun-Zhang-60?ev=hdr_xprf"
   uri              : 
   bitbucket        :
   codepen          :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhanghuan1994"
+  github           : "zhangwenjun1998"
   google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9914-6602"
+  orcid            : "https://orcid.org/0000-0002-7269-0376"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -114,7 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp2.uni-trier.de/pid/23/1797-7.html"
+  dblp             : "https://dblp.org/pid/46/3359-12.html"
 
 
 # Reading Files
