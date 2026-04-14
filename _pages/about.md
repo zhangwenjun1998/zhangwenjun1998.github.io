@@ -2,7 +2,7 @@
 permalink: /
 title: "Welcome to my website 欢迎来到我的个人网站"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
