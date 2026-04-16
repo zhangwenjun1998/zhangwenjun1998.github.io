@@ -66,22 +66,27 @@ News 最新动态
 ✌️2024.06- Our paper ''FNNWV: Farthest-Nearest Neighbor-based Weighted Voting for Class-Imbalanced Crowdsourcing'' is accepted by Science China Information Sciences. This is my first first-author paper in English. Good luck!    
 **我们的工作“FNNWV: Farthest-Nearest Neighbor-based Weighted Voting for Class-Imbalanced Crowdsourcing” 被SCIS录用，这是我的第一篇一作英文论文，好运！**
 
+✌️2023.09- Congratulations! I got "the National Scholarship for Ph.D. in 2023"! Fighting!   
+**祝贺！我很荣幸获得“2023年博士研究生国家奖学金”, 第二次获奖！**
+
+✌️2023.08- Congratulations! My first paper RFNB has been recognized as a Highly Cited Paper on CNKI!    
+**祝贺，我的第一篇论文RFNB入选中国知网高被引论文！**
+
+✌️2023.06- I am honored to lead the team in winning the National Third Prize in the Teddy Cup Data Mining Challenge. This marks my third national-level competition award. Keep going!    
+**非常荣幸带队获得泰迪杯数据挖掘挑战赛的国家三等奖，第三次获得国家级竞赛奖项，加油！**
+
 ✌️2023.06- Our paper ''Bayesian Classification Learning Framework based on Bias–Variance Trade-Off'' is accepted by Science China Information Sciences. Good luck!    
 **我们的工作“Bayesian Classification Learning Framework based on Bias–Variance Trade-Off” 被中国科学：信息科学中文版录用，CCF-A + 1！**
 
 ✌️2022.10- Our paper ''A Feature Augmentation-based Method for Constructing Generative-Discriminative Hybrid Models'' is accepted by Science China Information Sciences, congratulations!   
 **我们的工作“A Feature Augmentation-based Method for Constructing Generative-Discriminative Hybrid Models” 被中国科学：信息科学中文版录用，好运！**
 
-✌️2021.09- Many thanks to all, I got “the National Scholarship for Postgraduates in 2021”! A very high honor!
+✌️2021.09- Many thanks to all, I got “the National Scholarship for Postgraduates in 2021”! A very high honor!    
 **非常感谢大家，我很荣幸获得“2021年硕士研究生国家奖学金”！这是一份很高的荣誉！**
 
-✌️2021.09- My first work RFNB has been officially published. I’m truly delighted. Let everything begin from here!
-**我的第一个工作RFNB终于被正式发表，非常开心，就让一切从这里开始吧！**
+✌️2021.09- My first work ''A Two-Layer Bayes Model: Random Forest Naive Bayes'' has been officially published by Journal of Computer Research and Development. I’m truly delighted. Let everything begin from here!    
+**我的第一个工作RFNB终于被计算机研究与发展正式发表，非常开心，就让一切从这里开始吧！**
 
-
-张文钧, 蒋良孝*, 张欢, 胡成玉. 一种基于偏差-方差权衡的贝叶斯分类学习框架. 中国科学: 信息科学, 2023, 53(6): 1078-1095.（CCF-A中文期刊）
-
-张文钧, 蒋良孝*, 张欢. 基于特征增广的生成-判别混合模型构建方法. 中国科学: 信息科学, 2022, 52(10): 1792-1807.（CCF-A中文期刊）
 
 
 
