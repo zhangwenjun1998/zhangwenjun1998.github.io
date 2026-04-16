@@ -30,20 +30,59 @@ News 最新动态
 ✌️2025.12- I have joined the Faculty of Artificial Intelligence Education at Central China Normal University as a Associate Research Fellow. A new beginning, let’s go!  
 **我已经加入华中师范大学人工智能教育学部担任特任副研究员，新的开始，加油！**
 
-✌️2025.11- Our paper ''Random Forest-based Weighted Majority Voting for Crowdsourcing'' is accepted in Frontiers of Computer Science, congratulations!  
-**我们的工作“Random Forest-based Weighted Majority Voting for Crowdsourcing” 被录用到了FCS，祝贺！**
+✌️2025.11- Congratulations on our paper ''Random Forest-based Weighted Majority Voting for Crowdsourcing'' being accepted by Frontiers of Computer Science. It has been a long three-year journey!   
+**恭喜我们的工作“Random Forest-based Weighted Majority Voting for Crowdsourcing” 被FCS录用，一场长达三年的漂泊, 恭喜我的合作者！**
 
 ✌️2025.09- Congratulations! I got "the National Scholarship for Ph.D. in 2025"! Fighting!  
-**祝贺！我很荣幸获得“2025年博士研究生国家奖学金”！继续加油吧！**
+**祝贺！我很荣幸获得“2025年博士研究生国家奖学金”, 第三次获奖！**
 
 ✌️2025.05- Our paper ''TLLC: Transfer Learning-based Label Completion for Crowdsourcing'' is accepted in ICML 2025 as a spotlight poster, congratulations!   
-**我的工作“TLLC: Transfer Learning-based Label Completion for Crowdsourcing” 被录用到了ICML 2025，祝贺！另有两篇合作论文被ICML 2025收录，恭喜我的合作者！**
+**我们的工作“TLLC: Transfer Learning-based Label Completion for Crowdsourcing” 被ICML 2025录用为Spotlight Poster，祝贺！另有两篇合作论文被ICML 2025收录，恭喜我的合作者！**
+
+✌️2025.05- Our paper ''Label Consistency-based Ground Truth Inference for Crowdsourcing'' is accepted by IEEE Transactions on Neural Networks and Learning Systems, congratulations!   
+**我们的工作“Label Consistency-based Ground Truth Inference for Crowdsourcing” 被IEEE TNNLS录用, 恭喜我的合作者！**
 
 ✌️2025.04- I am very excited to receive the admission offer from Kyoto University! This April, I’ll be heading to Kyoto to enjoy the cherry blossoms🌸!   
 **非常开心收到日本京都大学的录取通知书，四月份，出发去京都看樱花！**
 
+✌️2025.02- Our paper ''Worker Similarity-based Label Completion for Crowdsourcing'' is accepted by IEEE Transactions on Big Data, congratulations!   
+**我们的工作“Worker Similarity-based Label Completion for Crowdsourcing” 被IEEE TBD录用，恭喜我的合作者！**
+
 ✌️2024.12- Our paper ''Dual-View Learning from Crowds'' is accepted in Transactions on Knowledge Discovery from Data, congratulations!   
-**我们的工作“Dual-View Learning from Crowds” 被录用到了TKDD，祝贺！**
+**我们的工作“Dual-View Learning from Crowds” 被ACM TKDD录用，恭喜我的合作者！**
 
 ✌️2024.11- Our paper ''ELDP: Enhanced Label Distribution Propagation for Crowdsourcing'' is accepted in Transactions on Pattern Analysis and Machine Intelligence. This is destined to be an unforgettable night!   
-**我们的工作“ELDP: Enhanced Label Distribution Propagation for Crowdsourcing” 被录用到了TPAMI，这是一个难忘的夜晚！**
+**我们的工作“ELDP: Enhanced Label Distribution Propagation for Crowdsourcing” 被IEEE TPAMI录用，这是一个难忘的夜晚！**
+
+✌️2024.09- Congratulations to myself on having two papers accepted by NeurIPS. Hope this is just the beginning!    
+**恭喜自己两篇论文被NeurIPS接受，希望这只是一个开始！**
+
+✌️2024.09- Our paper ''Probabilistic Matrix Factorization-based Three-stage Label Completion for Crowdsourcing'' is accepted by ICDM 2024. See you in Abu Dhabi!    
+**我们的工作“Probabilistic Matrix Factorization-based Three-stage Label Completion for Crowdsourcing” 被ICDM 2024录用，阿布扎比见！**
+
+✌️2024.08- I am honored to receive the CSC joint PhD training sponsorship. See you in Kyoto!    
+**恭喜自己获得中国留学基金委博士生联合培养资助，日本京都见！**    
+
+✌️2024.06- Our paper ''FNNWV: Farthest-Nearest Neighbor-based Weighted Voting for Class-Imbalanced Crowdsourcing'' is accepted by Science China Information Sciences. This is my first first-author paper in English. Good luck!    
+**我们的工作“FNNWV: Farthest-Nearest Neighbor-based Weighted Voting for Class-Imbalanced Crowdsourcing” 被SCIS录用，这是我的第一篇一作英文论文，好运！**
+
+✌️2023.06- Our paper ''Bayesian Classification Learning Framework based on Bias–Variance Trade-Off'' is accepted by Science China Information Sciences. Good luck!    
+**我们的工作“Bayesian Classification Learning Framework based on Bias–Variance Trade-Off” 被中国科学：信息科学中文版录用，CCF-A + 1！**
+
+✌️2022.10- Our paper ''A Feature Augmentation-based Method for Constructing Generative-Discriminative Hybrid Models'' is accepted by Science China Information Sciences, congratulations!   
+**我们的工作“A Feature Augmentation-based Method for Constructing Generative-Discriminative Hybrid Models” 被中国科学：信息科学中文版录用，好运！**
+
+✌️2021.09- Many thanks to all, I got “the National Scholarship for Postgraduates in 2021”! A very high honor!
+**非常感谢大家，我很荣幸获得“2021年硕士研究生国家奖学金”！这是一份很高的荣誉！**
+
+✌️2021.09- My first work RFNB has been officially published. I’m truly delighted. Let everything begin from here!
+**我的第一个工作RFNB终于被正式发表，非常开心，就让一切从这里开始吧！**
+
+
+张文钧, 蒋良孝*, 张欢, 胡成玉. 一种基于偏差-方差权衡的贝叶斯分类学习框架. 中国科学: 信息科学, 2023, 53(6): 1078-1095.（CCF-A中文期刊）
+
+张文钧, 蒋良孝*, 张欢. 基于特征增广的生成-判别混合模型构建方法. 中国科学: 信息科学, 2022, 52(10): 1792-1807.（CCF-A中文期刊）
+
+
+
+
