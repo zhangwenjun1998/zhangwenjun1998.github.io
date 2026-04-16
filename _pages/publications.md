@@ -7,9 +7,10 @@ author_profile: true
 
 <h2>2026</h2>
 
-**[K-Free Dependence Bayesian Classifiers](https://ieeexplore.ieee.org/document/11409471)**  
-Authors: Kexin Meng, **Huan Zhang***, Liangxiao Jiang, Pei Lv, Shuo He, Mingliang Xu   
-Publication: IEEE Transactions on Neural Networks and Learning Systems, https://doi.org/10.1109/TNNLS.2026.3664196. (中科院1区Top, CCF-B, IF=8.9)
+
+**[Random Forest-based Weighted Majority Voting for Crowdsourcing](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-51186-2)**  
+Authors: Liangju Yu, **Wenjun Zhang**, Liangxiao Jiang*   
+Publication: Frontiers of Computer Science, 2027, 21(3): 2103603. (CCF-T1类期刊)
 
 **[A General Dual-view Framework for Instance Weighted Naive Bayes](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008428)**  
 Authors: **Huan Zhang**, Kexin Meng, Pei Lv, Shuo He, Mingliang Xu*   
