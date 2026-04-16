@@ -4,32 +4,8 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
-Henan Province Outstanding Youth Science Fund Program, 262300421222, 2026.1-2028.12, Ongoing, Manager  
-河南省自然科学基金青年科学基金（B类）项目，262300421222, 2026.1-2028.12，在研，主持
-
-The China Postdoctoral Science Foundation, 2025M771579, 2025.7-2027.6, Ongoing, Manager  
-中国博士后科学基金第77批面上资助，2025M771579, 2025.7-2027.6，在研，主持
-
-Youth Fund of the National Natural Science Foundation of China, 62406294, 2025.1-2027.12, Ongoing, Manager  
-国家自然科学基金青年基金，62406294, 2025.1-2027.12，在研，主持
-
-Joint Open Fund of the Research Platforms of School of Computer Science, China University of Geosciences, Wuhan, PTLH2024-B-04, 2025.1-2026.12, Ongoing, Manager  
-中国地质大学（武汉）计算机学院科研平台联合开放基金，PTLH2024-B-04, 2025.1-2026.12，在研，主持
-
-The Postdoctoral Fellowship Program of China Postdoctoral Science Foundation, GZC20241546, 2024.2-2026.2, Completed, Manager  
-国家资助博士后研究人员计划，GZC20241546, 2024.2-2026.2，已结题，主持
-
-Henan Province science and technology research project, 242102320055, 2024.1-2025.12, Completed, Manager  
-河南省科技攻关项目，242102320055, 2024.1-2025.12，已结题，主持
-
-The Excellent Ph.D. Candidate Innovation Foundation in China University of Geosciences (Wuhan), 2021.6-2023.6, Completed, Manager  
-中国地质大学（武汉）优秀博士创新基金，2021.6-2023.6，已结题，主持
-
-China University of Geosciences (Wuhan) Laboratory Open Fund Project, 2018.12-2019.12, Completed, Manager  
-中国地质大学（武汉）教学实验室开放基金项目，2018.12-2019.12，已结题，主持
-
-National Natural Science Foundation of China, 2026.1-2029.12, Ongoing, Participating  
-国家自然科学基金面上项目，2026.1-2029.12，在研，参与
+Self-determined Research Funds of CCNU from the Colleges’ Basic Research and Operation of MOE, XJ2026001301, 2026.3-2028.3, Ongoing, Manager  
+中央高校基本科研业务费-新进教师项目，XJ2026001301，2026.3-2028.3，在研，主持
 
 National Natural Science Foundation of China, 2023.1-2026.12, Ongoing, Participating  
 国家自然科学基金面上项目，2023.1-2026.12，在研，参与
