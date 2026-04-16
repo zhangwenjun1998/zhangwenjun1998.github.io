@@ -18,16 +18,16 @@ I am Wenjun Zhang, born in June 1998. I am currently an associate research fello
 News 最新动态
 ======
 
-✌️2026.04- My research team, CCNU-Miner, has been officially established! Looking forward to exploring and producing exciting research ahead!
+✌️2026.04- My research team, CCNU-Miner, has been officially established! Looking forward to exploring and producing exciting research ahead!  
 **我的科研团队CCNU-Miner正式组建啦，希望可以做出一些有趣的研究！**
 
-✌️2026.03- I am honored to be elected as a professional member of CCF. I will strive to contribute and serve the community to the best of my ability. 
+✌️2026.03- I am honored to be elected as a professional member of CCF. I will strive to contribute and serve the community to the best of my ability.  
 **很荣幸当选CCF专业会员，未来我会为学会做好服务！**
 
-✌️2026.02- I am honored to be invited to serve as a reviewer for IEEE Transactions on Emerging Topics in Computational Intelligence. I will do my best to provide dedicated and professional service to the community!  
+✌️2026.02- I am honored to be invited to serve as a reviewer for IEEE Transactions on Emerging Topics in Computational Intelligence. I will do my best to provide dedicated and professional service to the community!   
 **很荣幸受邀担任TETCI期刊的评委，我会尽职做好服务工作！**
 
-✌️2025.12- I have joined the Faculty of Artificial Intelligence Education at Central China Normal University as a Associate Research Fellow. A new beginning, let’s go!
+✌️2025.12- I have joined the Faculty of Artificial Intelligence Education at Central China Normal University as a Associate Research Fellow. A new beginning, let’s go!  
 **我已经加入华中师范大学人工智能教育学部担任特任副研究员，新的开始，加油！**
 
 ✌️2025.11- Our paper ''Random Forest-based Weighted Majority Voting for Crowdsourcing'' is accepted in Frontiers of Computer Science, congratulations!  
@@ -36,14 +36,14 @@ News 最新动态
 ✌️2025.09- Congratulations! I got "the National Scholarship for Ph.D. in 2025"! Fighting!  
 **祝贺！我很荣幸获得“2025年博士研究生国家奖学金”！继续加油吧！**
 
-✌️2025.05- Our paper ''TLLC: Transfer Learning-based Label Completion for Crowdsourcing'' is accepted in ICML 2025 as a spotlight poster, congratulations!  
+✌️2025.05- Our paper ''TLLC: Transfer Learning-based Label Completion for Crowdsourcing'' is accepted in ICML 2025 as a spotlight poster, congratulations!   
 **我的工作“TLLC: Transfer Learning-based Label Completion for Crowdsourcing” 被录用到了ICML 2025，祝贺！另有两篇合作论文被ICML 2025收录，恭喜我的合作者！**
 
-✌️2025.04- I am very excited to receive the admission offer from Kyoto University! This April, I’ll be heading to Kyoto to enjoy the cherry blossoms🌸!
+✌️2025.04- I am very excited to receive the admission offer from Kyoto University! This April, I’ll be heading to Kyoto to enjoy the cherry blossoms🌸!   
 **非常开心收到日本京都大学的录取通知书，四月份，出发去京都看樱花！**
 
-✌️2024.12- Our paper ''Dual-View Learning from Crowds'' is accepted in Transactions on Knowledge Discovery from Data, congratulations!  
+✌️2024.12- Our paper ''Dual-View Learning from Crowds'' is accepted in Transactions on Knowledge Discovery from Data, congratulations!   
 **我们的工作“Dual-View Learning from Crowds” 被录用到了TKDD，祝贺！**
 
-✌️2024.11- Our paper ''ELDP: Enhanced Label Distribution Propagation for Crowdsourcing'' is accepted in Transactions on Pattern Analysis and Machine Intelligence. This is destined to be an unforgettable night!  
+✌️2024.11- Our paper ''ELDP: Enhanced Label Distribution Propagation for Crowdsourcing'' is accepted in Transactions on Pattern Analysis and Machine Intelligence. This is destined to be an unforgettable night!   
 **我们的工作“ELDP: Enhanced Label Distribution Propagation for Crowdsourcing” 被录用到了TPAMI，这是一个难忘的夜晚！**
