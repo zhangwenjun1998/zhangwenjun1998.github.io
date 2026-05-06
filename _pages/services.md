@@ -12,6 +12,18 @@ author_profile: true
 中国计算机学会专业会员  
 中国人工智能学会会员  
 
+**Area Chair for Conferences: 会议区域主席**  
+NeurIPS 2026  
+
+**Program Committee for Conferences: 会议程序委员会委员**  
+NeurIPS 2024/2025  
+ICML 2025/2026  
+ICLR 2026  
+AAAI 2024/2025/2026  
+ACL 2024/2025  
+IJCAI 2025/2026  
+UAI 2024/2025/2026  
+
 **Reviewer for Journals: 期刊审稿人**  
 IEEE Transactions on Knowledge and Data Engineering  
 IEEE Transactions on Neural Networks and Learning Systems  
@@ -40,12 +52,5 @@ Entropy
 计算机工程  
 计算机工程与科学  
 
-**Program Committee for Conferences: 会议程序委员会委员**  
-NeurIPS 2024/2025/2026  
-ICML 2025/2026  
-ICLR 2026  
-AAAI 2024/2025/2026  
-ACL 2024/2025  
-IJCAI 2025/2026  
-UAI 2024/2025/2026  
+
 
