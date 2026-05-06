@@ -13,7 +13,7 @@ J. Hu, L. Jiang*, and **W. Zhang**. **[Dual-View Label Integration for Crowdsour
 
 <h2>2026</h2>
 
-**W. Zhang**, L. Jiang*, C. Li and S. Si. **[MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](https://openreview.net/forum?id=Z3WwECYvgL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)).** In: Proceedings of the 43rd International Conference on Machine Learning, ICML 2026.   
+**W. Zhang**, L. Jiang*, C. Li and S. Si. **[MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](https://openreview.net/forum?id=Z3WwECYvgL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)).** In: Proceedings of the 43rd International Conference on Machine Learning, ICML 2026. (CCF-A)   
 
 <h2>2025</h2>
 
