@@ -21,7 +21,7 @@ J. Hu, L. Jiang*, and **W. Zhang**. **[Dual-View Label Integration for Crowdsour
 
 **W. Zhang**, L. Jiang*, and C. Li. **[TLLC: Transfer Learning-based Label Completion for Crowdsourcing](https://proceedings.mlr.press/v267/zhang25ah.html).** In: Proceedings of the 42nd International Conference on Machine Learning, ICML 2025, PMLR 267: 75178-75191. (CCF-A, Spotlight Poster)  
 
-C. Li, L. Jiang*, **W. Zhang**, L. Yu, and H. Zhang. **[Instance Correlation Graph-based Naive Bayes](https://proceedings.mlr.press/v267/li25ar.html).** In: Proceedings of the 42nd International Conference on Machine Learning, ICML 2025, PMLR 267: 35021-35033. (CCF-A)  
+C. Li, L. Jiang*, **W. Zhang**, L. Yu, and H. Zhang. **[Instance Correlation Graph-based Naive Bayes](https://proceedings.mlr.press/v267/li25ar.html).** In: Proceedings of the 42nd International Conference on Machine Learning, ICML 2025, PMLR 267: 35021-35033. (CCF-A, Spotlight Poster)   
 
 T. Wu, L. Jiang*, **W. Zhang**, and C. Li. **[Label Distribution Propagation-based Label Completion for Crowdsourcing](https://proceedings.mlr.press/v267/wu25n.html).** In: Proceedings of the 42nd International Conference on Machine Learning, ICML 2025, PMLR 267: 67369-67381. (CCF-A)  
 
