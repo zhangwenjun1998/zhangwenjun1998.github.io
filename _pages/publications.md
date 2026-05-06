@@ -9,6 +9,12 @@ author_profile: true
 
 L. Yu, **W. Zhang**, and L. Jiang*. **[Random Forest-based Weighted Majority Voting for Crowdsourcing](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-51186-2).** Frontiers of Computer Science, 2027, 21(3): 2103603.  
 
+J. Hu, L. Jiang*, and **W. Zhang**. **[Dual-View Label Integration for Crowdsourcing](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-52044-5).** Frontiers of Computer Science, DOI: 10.1007/s11704-026-52044-5.
+
+<h2>2026</h2>
+
+**W. Zhang**, L. Jiang*, C. Li and S. Si. **[MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](https://openreview.net/forum?id=Z3WwECYvgL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)).** In: Proceedings of the 43rd International Conference on Machine Learning, ICML 2026.   
+
 <h2>2025</h2>
 
 **W. Zhang**, L. Jiang*, and C. Li. **[ELDP: Enhanced Label Distribution Propagation for Crowdsourcing](https://ieeexplore.ieee.org/document/10770820/).** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, 47(3): 1850-1862. (CCF-A)  
@@ -57,12 +63,12 @@ Q. Ji, L. Jiang*, and **W. Zhang**. **[Dual-View Noise Correction for Crowdsourc
 
 H. Zhang, L. Jiang*, **W. Zhang**, and C. Li. **[Multi-view Attribute Weighted Naive Bayes](https://ieeexplore.ieee.org/document/9787796).** IEEE Transactions on Knowledge and Data Engineering, 2023, 35(7): 7291-7302. (CCF-A)
 
-张文钧, 蒋良孝*, 张欢, 胡成玉. **[一种基于偏差-方差权衡的贝叶斯分类学习框架](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0025).** 中国科学: 信息科学, 2023, 53(6): 1078-1095.（CCF-A中文期刊）
+**张文钧**, 蒋良孝*, 张欢, 胡成玉. **[一种基于偏差-方差权衡的贝叶斯分类学习框架](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0025).** 中国科学: 信息科学, 2023, 53(6): 1078-1095.（CCF-A中文期刊）
 
 <h2>2022</h2>
 
-张文钧, 蒋良孝*, 张欢. **[基于特征增广的生成-判别混合模型构建方法](https://www.sciengine.com/SSI/doi/10.1360/SSI-2021-0199).** 中国科学: 信息科学, 2022, 52(10): 1792-1807.（CCF-A中文期刊）
+**张文钧**, 蒋良孝*, 张欢. **[基于特征增广的生成-判别混合模型构建方法](https://www.sciengine.com/SSI/doi/10.1360/SSI-2021-0199).** 中国科学: 信息科学, 2022, 52(10): 1792-1807.（CCF-A中文期刊）
 
 <h2>2021</h2>
 
-张文钧, 蒋良孝*, 张欢, 陈龙. **[一种双层贝叶斯模型: 随机森林朴素贝叶斯](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200521).** 计算机研究与发展, 2021, 58(9): 2040-2051.（CCF-A中文期刊）
+**张文钧**, 蒋良孝*, 张欢, 陈龙. **[一种双层贝叶斯模型: 随机森林朴素贝叶斯](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200521).** 计算机研究与发展, 2021, 58(9): 2040-2051.（CCF-A中文期刊）
