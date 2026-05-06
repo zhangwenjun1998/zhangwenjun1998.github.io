@@ -21,8 +21,8 @@ News 最新动态
 ✌️2026.05- I am honored to be invited to serve as an Area Chair for NeurIPS 2026. I will do my best to contribute and serve the community!     
 **很荣幸被邀请为NeurIPS 2026的区域主席，我会做好服务工作！**
 
-✌️2026.05- Congratulations on my work “MA3S: Model-Agnostic Active Annotation Strategy for Crowdsourcing” being accepted by ICML 2026. My first paper since starting my job—mission one-third accomplished!  
-**恭喜我的工作“MA3S: Model-Agnostic Active Annotation Strategy for Crowdsourcing”被ICML 2026接收。工作后的第一个论文，任务完成1/3！**
+✌️2026.05- Congratulations on my work “MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing” being accepted by ICML 2026. My first paper since starting my job—mission one-third accomplished!  
+**恭喜我的工作“MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing”被ICML 2026接收。工作后的第一个论文，任务完成1/3！**
 
 ✌️2026.04- Our paper “Dual-View Label Integration for Crowdsourcing” has been accepted by Frontiers of Computer Science. Congratulations to all co-authors!  
 **我们的论文“Dual-View Label Integration for Crowdsourcing”被FCS接受，恭喜合著者！**
