@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Member: 组织成员**   
-中国计算机学会专业会员  
+中国计算机学会专业会员   
 中国人工智能学会会员  
 
 **Area Chair for Conferences: 会议区域主席**  
