@@ -7,16 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Wenjun Zhang, born in June 1998. I am currently an associate professor and master’s supervisor at the School of Information Engineering, Zhongnan University of Economics and Law. I received my Ph.D. degree from China University of Geosciences (CUG-Wuhan) in December 2025, supervised by Prof. [Liangxiao Jiang](https://grzy.cug.edu.cn/jlx/zh_CN/). Besides, I was a visiting scholar of Kyoto University from April 2025 to November 2025, supervised by Prof. [Hisashi Kashima]( https://scholar.google.com/citations?user=bkTB0t8AAAAJ&hl=en). My research mainly focuses on data mining and machine learning, with interests including crowdsourced learning, Bayesian learning, active learning, transfer learning, and class-imbalance learning. I have published over 20 papers in well-known international and domestic journals and conferences, including 9 first-author papers in CCF-A venues such as NeurIPS, ICML, IEEE TPAMI, SCIS, etc. I have also served as a reviewer/area chair/program committee member for more than 20 international journals and conferences, including TKDE, TNNLS, TKDD, TETCI, NeurIPS, ICML, ACL, AAAI, IJCAI, UAI, etc.
+I am Wenjun Zhang, born in June 1998. I am currently an associate professor and master’s supervisor at the School of Information Engineering, Zhongnan University of Economics and Law. I received my Ph.D. degree from China University of Geosciences (CUG-Wuhan) in December 2025, supervised by Prof. [Liangxiao Jiang](https://grzy.cug.edu.cn/jlx/zh_CN/). Besides, I was a visiting scholar of Kyoto University from April 2025 to November 2025, supervised by Prof. [Hisashi Kashima]( https://scholar.google.com/citations?user=bkTB0t8AAAAJ&hl=en). My research mainly focuses on data mining and machine learning, with interests including crowdsourced learning, Bayesian learning, active learning, transfer learning, and class-imbalance learning. I have published over 30 papers in well-known international and domestic journals and conferences, including 9 first-author papers in CCF-A venues such as NeurIPS, ICML, IEEE TPAMI, SCIS, etc. I have also served as a reviewer/area chair/program committee member for more than 20 international journals and conferences, including TKDE, TNNLS, TKDD, TETCI, NeurIPS, ICML, ACL, AAAI, IJCAI, UAI, etc.
 
-我是张文钧，1998年6月生，目前在中南财经政法大学信息工程学院担任准聘副教授，硕士生导师。我于2025年12月获得中国地质大学（武汉）工学博士学位，导师是[蒋良孝](https://grzy.cug.edu.cn/jlx/zh_CN/)教授。博士期间曾受国家留学基金委资助赴日本京都大学联合培养，导师为[Hisashi Kashima]( https://scholar.google.com/citations?user=bkTB0t8AAAAJ&hl=en)教授。我主要从事数据挖掘与机器学习相关研究工作，研究方向包括众包学习、贝叶斯学习、主动学习、迁移学习、类不平衡学习等。目前发表国内外著名学术期刊和会议论文20余篇，其中一作CCF-A类论文9篇，包括NeurIPS，ICML，IEEE TPAMI，SCIS，中国科学：信息科学，计算机研究与发展等。长期担任TKDE、TNNLS、TETCI、TKDD、NeruIPS、ICML、ACL、AAAI、IJCAI、UAI等20余个国际期刊审稿人和会议AC或PC。
+我是张文钧，1998年6月生，目前在中南财经政法大学信息工程学院担任准聘副教授，硕士生导师。我于2025年12月获得中国地质大学（武汉）工学博士学位，导师是[蒋良孝](https://grzy.cug.edu.cn/jlx/zh_CN/)教授。博士期间曾受国家留学基金委资助赴日本京都大学联合培养，导师为[Hisashi Kashima]( https://scholar.google.com/citations?user=bkTB0t8AAAAJ&hl=en)教授。我主要从事数据挖掘与机器学习相关研究工作，研究方向包括众包学习、贝叶斯学习、主动学习、迁移学习、类不平衡学习等。目前发表国内外著名学术期刊和会议论文30余篇，其中一作CCF-A类论文9篇，包括NeurIPS，ICML，IEEE TPAMI，SCIS，中国科学：信息科学，计算机研究与发展等。长期担任TKDE、TNNLS、TETCI、TKDD、NeruIPS、ICML、ACL、AAAI、IJCAI、UAI等20余个国际期刊审稿人和会议AC或PC。
 
-**长期欢迎对机器学习、数据挖掘、模式识别等方向感兴趣的同学报考研究生。同时，课题组常年招收对科技创新感兴趣的本科生。请有意向同学将个人简历发送至wjzhang@ccnu.edu.cn。比起成绩，我更重视态度和性格，愿与同道者一起捍卫小我或改变世界！**
+**长期欢迎对机器学习、数据挖掘、模式识别等方向感兴趣的同学报考研究生。同时，课题组常年招收对科技创新感兴趣的本科生。请有意向同学将个人简历发送至wjzhang@zuel.edu.cn。比起成绩，我更重视态度和性格，愿与同道者一起捍卫小我或改变世界！**
 
 
 
 News 最新动态
 ======
+
+✌️2026.08- I am honored to receive funding from the National Natural Science Foundation of China (NSFC) Young Scientists Fund! This is the only successful outcome among the several grant applications I submitted this year, and it certainly did not come easily. Keep working hard and keep moving forward!  
+**很荣幸获得国家自然科学基金青年科学基金项目资助！这是今年多次项目申请中唯一的收获，一切来之不易。继续努力，再接再厉！**
+
+✌️2026.08- Our paper “Label Distribution Enhancement-based Label Completion for High-noise-ratio Crowdsourcing” has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence. Congratulations to all co-authors!   
+**我们的论文“Label Distribution Enhancement-based Label Completion for High-noise-ratio Crowdsourcing”被TPAMI接收，第二篇啦，恭喜合著者！**
+
+✌️2026.07- I have joined the School of Information Engineering at Zhongnan University of Economics and Law as an associate professor. A new beginning, let’s go!  
+**我已经加入中南财经政法大学信息工程学院担任预聘副教授，新的开始，加油！**
 
 ✌️2026.05- I am honored to be invited to serve as an Area Chair for NeurIPS 2026. I will do my best to contribute and serve the community!     
 **很荣幸被邀请为NeurIPS 2026的区域主席，我会做好服务工作！**
