@@ -5,7 +5,7 @@ permalink: /fundings/
 author_profile: true
 ---
 
-National Natural Science Foundation of China (NSFC) Young Scientists Fund, Grant No. 62606184, 2027.1-2029.12, Ongoing, Manager
+National Natural Science Foundation of China (NSFC) Young Scientists Fund, Grant No. 62606184, 2027.1-2029.12, Ongoing, Manager  
 国家自然科学基金青年项目，62606184，2027.1-2029.12，在研，主持
 
 National Natural Science Foundation of China, 2023.1-2026.12, Ongoing, Participating  
