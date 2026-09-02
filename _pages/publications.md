@@ -15,6 +15,8 @@ L. Yu, **W. Zhang**, and L. Jiang*. **[Random Forest-based Weighted Majority Vot
 
 **W. Zhang**, L. Jiang*, C. Li and S. Si. **[MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](https://openreview.net/forum?id=Z3WwECYvgL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)).** In: Proceedings of the 43rd International Conference on Machine Learning, ICML 2026. (CCF-A)   
 
+T. Wu, L. Jiang*, **W. Zhang**, and K. Yue. **[Label Distribution Enhancement-based Label Completion for High-noise-ratio Crowdsourcing](https://pubmed.ncbi.nlm.nih.gov/42579577/)**. IEEE Transactions on Pattern Analysis and Machine Intelligence, DOI: 10.1109/TPAMI.2026.3721048. (CCF-A)
+
 <h2>2025</h2>
 
 **W. Zhang**, L. Jiang*, and C. Li. **[ELDP: Enhanced Label Distribution Propagation for Crowdsourcing](https://ieeexplore.ieee.org/document/10770820/).** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, 47(3): 1850-1862. (CCF-A)  
