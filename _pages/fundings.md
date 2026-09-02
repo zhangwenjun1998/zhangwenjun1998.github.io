@@ -4,8 +4,9 @@ title: "Fundings 基金项目"
 permalink: /fundings/
 author_profile: true
 ---
-Self-determined Research Funds of CCNU from the Colleges’ Basic Research and Operation of MOE, XJ2026001301, 2026.3-2028.3, Ongoing, Manager  
-中央高校基本科研业务费-新进教师项目，XJ2026001301，2026.3-2028.3，在研，主持
+
+National Natural Science Foundation of China (NSFC) Young Scientists Fund, Grant No. 62606184, 2027.1-2029.12, Ongoing, Manager
+国家自然科学基金青年项目，62606184，2027.1-2029.12，在研，主持
 
 National Natural Science Foundation of China, 2023.1-2026.12, Ongoing, Participating  
 国家自然科学基金面上项目，2023.1-2026.12，在研，参与
