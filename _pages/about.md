@@ -18,6 +18,9 @@ I am Wenjun Zhang, born in June 1998. I am currently an associate professor and 
 News 最新动态
 ======
 
+✌️2026.09- My research team has rebranded as ZUEL-Miner! Wishing the team continued growth and an even brighter future!     
+**我的科研团队改旗易帜为ZUEL-Miner啦，希望它越来越壮大！**
+
 ✌️2026.08- I am honored to receive funding from the National Natural Science Foundation of China (NSFC) Young Scientists Fund! This is the only successful outcome among the several grant applications I submitted this year, and it certainly did not come easily. Keep working hard and keep moving forward!  
 **很荣幸获得国家自然科学基金青年科学基金项目资助！这是今年多次项目申请中唯一的收获，一切来之不易。继续努力，再接再厉！**
 
