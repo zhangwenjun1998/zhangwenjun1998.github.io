@@ -8,9 +8,9 @@ author_profile: true
 硕士生  
 <div style="display:grid; grid-template-columns:60px auto; gap:8px 10px;">
   <div>肖文道</div><div>（2026.9-202x.6，硕士生，在读）</div>
-  <div>黎&nbsp;&nbsp;焱</div><div>（2026.9-202x.6，硕士生，在读）</div>
+  <div>黎&nbsp;&nbsp;&nbsp;焱</div><div>（2026.9-202x.6，硕士生，在读）</div>
   <div>黎泓志</div><div>（2026.9-202x.6，硕士生，在读）</div>
-  <div>余&nbsp;&nbsp;慰</div><div>（2025.9-202x.6，硕士生，在读）</div>
+  <div>余&nbsp;&nbsp;&nbsp;慰</div><div>（2025.9-202x.6，硕士生，在读）</div>
 </div>  
 
 本科生  
